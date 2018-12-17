@@ -1,0 +1,15 @@
+{
+  "name": "custom-electron-titlebar-quickstart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Alex Torres",
+  "license": "ISC",
+  "dependencies": {
+    "custom-electron-titlebar": "^1.0.1",
+    "electron": "^3.0.12"
+  }
+}
