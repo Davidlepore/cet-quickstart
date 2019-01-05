@@ -4,12 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "electron ."
+    "start": "tsc && electron ."
   },
   "author": "Alex Torres",
   "license": "ISC",
   "dependencies": {
-    "custom-electron-titlebar": "^2.0.1",
-    "electron": "^3.0.13"
+    "custom-electron-titlebar": "^2.0.2",
+    "electron": "^3.0.14"
+  },
+  "devDependencies": {
+    "typescript": "^3.2.2"
   }
 }
