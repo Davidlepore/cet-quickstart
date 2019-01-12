@@ -9,8 +9,8 @@
   "author": "Alex Torres",
   "license": "ISC",
   "dependencies": {
-    "custom-electron-titlebar": "^2.0.2",
-    "electron": "^3.0.14"
+    "custom-electron-titlebar": "^2.1.0",
+    "electron": "^3.1.0"
   },
   "devDependencies": {
     "typescript": "^3.2.2"

@@ -5,7 +5,7 @@ const { Menu, MenuItem } = remote;
 
 const titlebar = new Titlebar('green', {
 	maximizable: false,
-	iconsStyle: Themebar.mac()
+	iconsStyle: Themebar.mac
 });
 
 const menu = new Menu();

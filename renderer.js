@@ -5,7 +5,7 @@ const electron_1 = require("electron");
 const { Menu, MenuItem } = electron_1.remote;
 const titlebar = new custom_electron_titlebar_1.Titlebar('green', {
     maximizable: false,
-    iconsStyle: custom_electron_titlebar_1.Themebar.mac()
+    iconsStyle: custom_electron_titlebar_1.Themebar.mac
 });
 const menu = new Menu();
 menu.append(new MenuItem({
