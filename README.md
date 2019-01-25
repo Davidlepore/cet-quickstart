@@ -2,7 +2,7 @@
 
 This is a example for start an electron app with [custom electron titlebar](https://github.com/AlexTorresSk/custom-electron-titlebar)
 
-![Screenshot](screenshot.jpg)
+![Screenshot](screenshot.png)
 
 ## Usage
 
