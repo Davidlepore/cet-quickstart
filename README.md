@@ -1,6 +1,6 @@
-# custom-electron-titlebar-quickstart
+# cet-quickstart
 
-This is a example for start an electron app with [custom electron titlebar](https://github.com/AlexTorresSk/custom-electron-titlebar)
+This is a example for start an electron app with [CET (Custom Electron Titlebar)](https://github.com/Inceldes/cet)
 
 ![Screenshot](screenshot.png)
 
@@ -9,7 +9,7 @@ This is a example for start an electron app with [custom electron titlebar](http
 To use this example, clone this repository
 
 ```
-git clone https://github.com/AlexTorresSk/custom-electron-titlebar-quickstart.git
+git clone https://github.com/AlexTorresSk/cet-quickstart.git
 ```
 
-For more information visit: [custom electron titlebar](https://github.com/AlexTorresSk/custom-electron-titlebar)
+For more information visit: [CET (Custom Electron Titlebar)](https://github.com/Inceldes/cet)
