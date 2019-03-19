@@ -1,5 +1,5 @@
 {
-  "name": "custom-electron-titlebar-quickstart",
+  "name": "cet-quickstart",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,10 +9,12 @@
   "author": "Alex Torres",
   "license": "ISC",
   "dependencies": {
-    "custom-electron-titlebar": "^3.0.5",
-    "electron": "^3.1.6"
+    "@inceldes/cet": "^1.0.0"
   },
   "devDependencies": {
+    "electron": "^3.1.6",
+    "md-color-picker": "^0.2.6",
+    "tinycolor2": "^1.4.1",
     "typescript": "^3.3.3333"
   }
 }
